@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "ptools\\ptapp\\app_trucking.pbt";
+@end;
+DefaultTarget "ptools\\ptapp\\app_trucking.pbt";
+DefaultExportEncode "UTF-8";
+DefaultRemoteTarget "ptools\\ptapp\\app_trucking.pbt";

@@ -1,0 +1,446 @@
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if "" == "" set NET_FRAMEWORK_PB180=C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\csc
+Microsoft (R) Visual C# Compiler version 4.7.2556.0
+for C# 5
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+This compiler is provided as part of the Microsoft (R) .NET Framework, but only supports language versions up to C# 5, which is no longer the latest version. For compilers that support newer versions of the C# programming language, see http://go.microsoft.com/fwlink/?LinkID=533240
+
+warning CS2008: No source files specified
+error CS1562: Outputs without source must have the /out option specified
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if errorlevel 9009 exit 3 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.asmx" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.asmx" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.html" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.html" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.css" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.css" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.cs" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.cs" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.aspx" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.aspx" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.htm" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.htm" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.js" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.js" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.resx" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.resx" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.asax" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\*.asax" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\build.bat" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\build.bat" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\web.config" del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\web.config" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin" rd /s /q "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\images" rd /s /q "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\images" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\scripts" rd /s /q "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\scripts" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\temp" rd /s /q "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\temp" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\..\webservice_root" rd /s /q "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\..\webservice_root" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>rename "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\AssemblyInfo.bak" "AssemblyInfo.cs" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>"C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\pb2cs" @"D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\projectinfo.txt" 
+Type-checking (pass 1) system (system)
+Parsing d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (n_webservice)
+Parsing d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (webservice)
+Type-checking (pass 1) d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (n_webservice)
+Type-checking (pass 1) d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (webservice)
+Type-checking (pass 1) d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (n_webservice)
+Type-checking (pass 1) d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (webservice)
+Type-checking (pass 1) d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (n_webservice)
+Type-checking (pass 1) d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (webservice)
+Type-checking prototypes/instance variables(pass 2) 
+Type-checking prototypes/instance variables(pass 2) 
+Type-checking methods(pass 2) d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (n_webservice)
+Type-checking methods(pass 2) d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (webservice)
+Emitting d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (webservice)
+Emitting d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (n_webservice)
+Emitting d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (webservice)
+Emitting d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (webservice)
+Emitting d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (n_webservice)
+Emitting d:\workcase\app_trucking of poc_pb2018\source code\webservice.pbl (webservice)
+
+
+Error Summary : 0 error(s) 
+
+
+
+Warning Summary : 0 warning(s) 
+
+
+
+Compile complete -- 0 error(s), 0 warning(s)
+
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if ERRORLEVEL 1 exit 1 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>call build.bat c+ "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\csc_output_file_name.txt" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>rem setlocal 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if "c+" == "" goto usage  
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET" == "" goto sethome 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if "" == "" set PB_WEBROOT=C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\webroot 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>set NET_FRAMEWORK_PB180=C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md bin 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>set PBROOTDIR="..\webservice_root" 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\mail\users 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\mail\session 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\print\users 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\print\session 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\log 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\file\icon 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\file\users 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\file\session 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>set PB_WEBFILEC="..\webservice_root"\file\common\c 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\file\common\c\temp 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>set PB_WEBLIBDIR="..\webservice_root"\file\common\c\~pl_ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>md "..\webservice_root"\file\common\c\~pl_ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>net user ASPNET 
+The user name could not be found.
+
+More help is available by typing NET HELPMSG 2221.
+
+ASPNET [IIS 5] was not found.
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>goto groupstep_iis6 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>net localgroup IIS_WPG 
+System error 1376 has occurred.
+
+The specified local group does not exist.
+
+IIS_WPG [IIS 6] was not found.
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>goto groupstep_iis7 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>net localgroup IIS_IUSRS 
+Alias name     IIS_IUSRS
+Comment        Built-in group used by Internet Information Services.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>cacls temp /t /e /c /g IIS_IUSRS:f 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>cacls "..\webservice_root" /t /e /c /g IIS_IUSRS:f 
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\file
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\log
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\mail
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\print
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\file\common
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\file\icon
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\file\session
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\file\users
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\file\common\c
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\file\common\c\temp
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\file\common\c\~pl_
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\mail\session
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\mail\users
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\print\session
+processed dir: D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\print\users
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if "c+" == "c-" goto notcopy 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if "c+" == "C-" goto notcopy 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>goto copyfile 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\webroot\global.asax" . 
+File not found - global.asax
+0 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\webroot\global.asax.cs" . 
+File not found - global.asax.cs
+0 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\webroot\global.asax.resx" . 
+File not found - global.asax.resx
+0 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>REM xcopy /D /Y /E "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\webroot\images\*.*" images\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>REM xcopy /D /Y /E "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\webroot\scripts\*.*" scripts\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Win.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Win.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Win.pdb" xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Win.pdb" bin\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Win.tlb" bin\ 
+File not found - Sybase.PowerBuilder.DataWindow.Win.tlb
+0 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Web.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Web.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Web.pdb" xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Web.pdb" bin\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Interop.*" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Interop.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Ado.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.ADO.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Db*" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Db.dll
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DbExt.dll
+2 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Core.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Core.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Core.pdb" xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Core.pdb" bin\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y /E "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\de\*.*" bin\de\ 
+File not found - *.*
+0 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y /E "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\fr\*.*" bin\fr\ 
+File not found - *.*
+0 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Interop.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Interop.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Interop.pdb" xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Interop.pdb" bin\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Common.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Common.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Common.pdb" xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Common.pdb" bin\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.WinWebDataWindowCommon.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.WinWebDataWindowCommon.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.WinWebDataWindowCommon.pdb" xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.WinWebDataWindowCommon.pdb" bin\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Web.WebService.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Web.WebService.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Web.WebService.pdb" xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Web.WebService.pdb" bin\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.System.pbd" "..\webservice_root"\file\common\c\~pl_\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.System.pbd
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Graph*" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Graph.Core.dll
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Graph.Interop.dll
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Graph.Web.dll
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.Graph.Win.dll
+4 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.WebService.Runtime*.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.Powerbuilder.WebService.Runtime.dll
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.WebService.RuntimeRemoteLoader.dll
+2 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if exist "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.WebService.Runtime*.pdb" xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.WebService.Runtime*.pdb" bin\ 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\com.sybase.ejb.net.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\com.sybase.ejb.net.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\com.sybase.iiop.net.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\com.sybase.iiop.net.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>xcopy /D /Y "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Excel12.dll" bin\ 
+C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\Sybase.PowerBuilder.DataWindow.Excel12.dll
+1 File(s) copied
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>reg import "C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\PBExceptionTrace.reg" 
+ERROR: Error accessing the registry.
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\csc_output_file_name.txt" == "" (C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\csc /t:library /debug   /platform:x86 "/r:bin\Sybase.PowerBuilder.Core.dll;bin\Sybase.PowerBuilder.Interop.dll;bin\Sybase.PowerBuilder.Common.dll;bin\Sybase.PowerBuilder.WinWebDataWindowCommon.dll;bin\Sybase.PowerBuilder.Web.WebService.dll;C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\com.sybase.ejb.net.dll;C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\com.sybase.iiop.net.dll" /out:"bin\webservice.dll" *.cs )  else (C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\csc /t:library /debug   /platform:x86 "/r:bin\Sybase.PowerBuilder.Core.dll;bin\Sybase.PowerBuilder.Interop.dll;bin\Sybase.PowerBuilder.Common.dll;bin\Sybase.PowerBuilder.WinWebDataWindowCommon.dll;bin\Sybase.PowerBuilder.Web.WebService.dll;C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\com.sybase.ejb.net.dll;C:\Program Files (x86)\Appeon\PowerBuilder 18.0\DotNET\bin\com.sybase.iiop.net.dll" /out:"bin\webservice.dll" *.cs  1>"D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\csc_output_file_name.txt" ) 
+Build Succeeded.
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>goto end 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>rem endlocal 
+
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice>if ERRORLEVEL 1 exit 2 
+Generating PowerBuilder .NET assemblies succeeded.
+Warning: Cannot delete the D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\securityperms.txt file.
+
+C:\WINDOWS\system32>call "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\deploytoserver.bat"  
+
+C:\WINDOWS\system32>xcopy /H /D /Y "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\webservice.pbd" "C:\inetpub\wwwroot\webservice\..\webservice_root\file\common\c\~pl_\" 
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\webservice.pbd
+1 File(s) copied
+
+C:\WINDOWS\system32>echo successful 
+successful
+
+C:\WINDOWS\system32>del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\deploytoserver.bat"  
+
+C:\WINDOWS\system32>call "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\createvdir_webservice.bat"  
+
+C:\WINDOWS\system32>if not exist "C:\inetpub\wwwroot\webservice" mkdir "C:\inetpub\wwwroot\webservice" 
+
+C:\WINDOWS\system32>C:\WINDOWS\system32\inetsrv\appcmd add apppool /name:"PBDotnet4AppPool" /managedRuntimeVersion:v4.0 /Enable32BitAppOnWin64:true /managedPipelineMode:Classic  
+ERROR ( message:Failed to add duplicate collection element "PBDotnet4AppPool". )
+
+C:\WINDOWS\system32>C:\WINDOWS\system32\inetsrv\appcmd add app /site.name:"Default Web Site" /path:"/webservice" /physicalPath:"C:\inetpub\wwwroot\webservice" /ApplicationPool:"PBDotnet4AppPool" 
+APP object "Default Web Site/webservice" added
+VDIR object "Default Web Site/webservice" added
+
+C:\WINDOWS\system32>del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\createvdir_webservice.bat" 
+The batch file cannot be found.
+
+C:\WINDOWS\system32>call "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\pb533D.tmp.bat"  
+
+C:\WINDOWS\system32>C:\WINDOWS\system32\inetsrv\appcmd list app "Default Web Site/webservice"   1>"D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\pb533E.tmp.txt" 
+
+C:\WINDOWS\system32>"D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\pb533C.tmp.vbs" "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\pb533E.tmp.txt" "C:\WINDOWS\system32\inetsrv\appcmd"  
+
+C:\WINDOWS\system32>del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\pb533E.tmp.txt"  
+
+C:\WINDOWS\system32>del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\pb533C.tmp.vbs"  
+
+C:\WINDOWS\system32>del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\pb533D.tmp.bat"  
+The batch file cannot be found.
+
+C:\WINDOWS\system32>if not exist "C:\inetpub\wwwroot\webservice" mkdir "C:\inetpub\wwwroot\webservice"  
+
+C:\WINDOWS\system32>xcopy /Y /E /D "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice" "C:\inetpub\wwwroot\webservice"  
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\n_webservice.asmx
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\pbnetwscfg.xml
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\PBWSEmit.log
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\TestWebService.htm
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\web.config
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\webservice.disco
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\com.sybase.ejb.net.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\com.sybase.iiop.net.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.ADO.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.Common.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.Core.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.DataWindow.Excel12.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.DataWindow.Interop.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.DataWindow.Web.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.DataWindow.Win.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.Db.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.DbExt.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.Graph.Core.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.Graph.Interop.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.Graph.Web.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.Graph.Win.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.Interop.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.Web.WebService.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.Powerbuilder.WebService.Runtime.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.WebService.RuntimeRemoteLoader.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\Sybase.PowerBuilder.WinWebDataWindowCommon.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\webservice.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\webservice.pdb
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\webservice_ws.dll
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice\bin\webservice_ws.pdb
+30 File(s) copied
+
+C:\WINDOWS\system32>rd /S /Q "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice"  
+
+C:\WINDOWS\system32>if not exist "C:\inetpub\wwwroot\webservice_root" mkdir "C:\inetpub\wwwroot\webservice_root"  
+
+C:\WINDOWS\system32>xcopy /Y /E /D "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root" "C:\inetpub\wwwroot\webservice_root"  
+D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root\file\common\c\~pl_\Sybase.PowerBuilder.System.pbd
+1 File(s) copied
+
+C:\WINDOWS\system32>rd /S /Q "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\webservice_root"  
+
+C:\WINDOWS\system32>call "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\pb534E.tmp.bat"  
+
+C:\WINDOWS\system32>net user ASPNET    
+The user name could not be found.
+
+More help is available by typing NET HELPMSG 2221.
+
+ASPNET [IIS 5] was not found.
+
+C:\WINDOWS\system32>goto groupstep_iis6    
+
+C:\WINDOWS\system32>net localgroup IIS_WPG     
+System error 1376 has occurred.
+
+The specified local group does not exist.
+
+IIS_WPG [IIS 6] was not found.
+
+C:\WINDOWS\system32>goto groupstep_iis7     
+
+C:\WINDOWS\system32>net localgroup IIS_IUSRS     
+Alias name     IIS_IUSRS
+Comment        Built-in group used by Internet Information Services.
+
+Members
+
+-------------------------------------------------------------------------------
+The command completed successfully.
+
+
+C:\WINDOWS\system32>cacls "C:\inetpub\wwwroot\webservice\temp" /t /e /c /g IIS_IUSRS:f     
+
+C:\WINDOWS\system32>cacls "C:\inetpub\wwwroot\webservice_root" /t /e /c /g IIS_IUSRS:f      
+processed dir: C:\inetpub\wwwroot\webservice_root
+processed dir: C:\inetpub\wwwroot\webservice_root\file
+processed dir: C:\inetpub\wwwroot\webservice_root\log
+processed dir: C:\inetpub\wwwroot\webservice_root\mail
+processed dir: C:\inetpub\wwwroot\webservice_root\print
+processed dir: C:\inetpub\wwwroot\webservice_root\file\common
+processed dir: C:\inetpub\wwwroot\webservice_root\file\icon
+processed dir: C:\inetpub\wwwroot\webservice_root\file\session
+processed dir: C:\inetpub\wwwroot\webservice_root\file\users
+processed dir: C:\inetpub\wwwroot\webservice_root\file\common\c
+processed dir: C:\inetpub\wwwroot\webservice_root\file\common\c\temp
+processed dir: C:\inetpub\wwwroot\webservice_root\file\common\c\~pl_
+processed file: C:\inetpub\wwwroot\webservice_root\file\common\c\~pl_\Sybase.PowerBuilder.System.pbd
+processed file: C:\inetpub\wwwroot\webservice_root\file\common\c\~pl_\webservice.pbd
+processed dir: C:\inetpub\wwwroot\webservice_root\mail\session
+processed dir: C:\inetpub\wwwroot\webservice_root\mail\users
+processed dir: C:\inetpub\wwwroot\webservice_root\print\session
+processed dir: C:\inetpub\wwwroot\webservice_root\print\users
+
+C:\WINDOWS\system32>del  "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\pb534E.tmp.bat" 
+The batch file cannot be found.
+
+C:\WINDOWS\system32>del "D:\WorkCase\app_trucking of Poc_PB2018\Source Code\pb2cstempout\deploytoserver.bat"  
+The batch file cannot be found.
+Deploying PowerBuilder .NET assemblies succeeded.
